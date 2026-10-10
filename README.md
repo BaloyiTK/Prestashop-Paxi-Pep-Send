@@ -2,9 +2,15 @@
 
 A PrestaShop 8+ shipping module by **Kaziara Solutions** that keeps checkout compact by exposing a single **PAXI / PEP Courier** delivery method.
 
-## Current version
+## ⬇️ Download
 
-**v1.3.1**
+### [Download latest version (ZIP)](https://github.com/BaloyiTK/Prestashop-Paxi-Pep-Send/archive/refs/heads/main.zip)
+
+Current release: **v1.3.1**
+
+> After downloading, extract the repository ZIP and upload/re-zip the **`pepstoredelivery`** folder for PrestaShop.
+
+[View the module files](https://github.com/BaloyiTK/Prestashop-Paxi-Pep-Send/tree/main/pepstoredelivery)
 
 ## Features
 
@@ -34,12 +40,13 @@ A PrestaShop 8+ shipping module by **Kaziara Solutions** that keeps checkout com
 
 ## Install
 
-1. Download or clone this repository.
-2. Zip the `pepstoredelivery` directory so that `pepstoredelivery.php` is directly inside that directory in the archive.
-3. In PrestaShop, go to **Modules > Module Manager > Upload a module**.
-4. Upload and install the ZIP.
-5. Clear the PrestaShop cache.
-6. Test checkout by selecting **PAXI / PEP Courier**, selecting a service, and entering a preferred pickup store.
+1. Click **Download latest version (ZIP)** above.
+2. Extract the downloaded repository archive.
+3. Zip the `pepstoredelivery` directory so that `pepstoredelivery.php` is inside that directory in the archive.
+4. In PrestaShop, go to **Modules > Module Manager > Upload a module**.
+5. Upload and install the ZIP.
+6. Clear the PrestaShop cache.
+7. Test checkout by selecting **PAXI / PEP Courier**, selecting a service, and entering a preferred pickup store.
 
 ## Validation
 
